@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "French Fries",
+      "picture": "fries.png",
+      "description": "Best french fries in the world",
+      "flag": false,
+      "price": 3.95,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Johnny",
+          "comment": "The best french fries I ever ate.",
+          "rate": 5
+        },
+        {
+          "review_id": 2,
+          "username": "Agatha",
+          "comment": "It was really good.",
+          "rate": 4
+        },
+        {
+          "review_id": 3,
+          "username": "Martha",
+          "comment": "I liked it but I have eaten better.",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "picture": "hamburger.png",
+      "description": "The hamburger to remember",
+      "flag": false,
+      "price": 11.55,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Nicolas",
+          "comment": "Not very pleased, would not recommend.",
+          "rate": 5
+        },
+        {
+          "review_id": 2,
+          "username": "Maurice",
+          "comment": "It was good, nothing wow.",
+          "rate": 3
+        },
+        {
+          "review_id": 3,
+          "username": "Melanie",
+          "comment": "I liked it but I have eaten better.",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lasagne",
+      "picture": "lasagne.png",
+      "description": "Great italian food for everyday meal",
+      "flag": false,
+      "price": 10.95,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Rita",
+          "comment": "Not very pleased, would not recommend.",
+          "rate": 4.5
+        },
+        {
+          "review_id": 2,
+          "username": "John",
+          "comment": "It was okay.",
+          "rate": 4
+        },
+        {
+          "review_id": 3,
+          "username": "Ryan",
+          "comment": "I liked it but I have eaten better.",
+          "rate": 4.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pizza",
+      "picture": "pizza.png",
+      "description": "Delicious pizza with extra cheese",
+      "flag": false,
+      "price": 8.9,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Harry",
+          "comment": "I would not recommend.",
+          "rate": 3.5
+        },
+        {
+          "review_id": 2,
+          "username": "Nicol",
+          "comment": "It was brilliant.",
+          "rate": 5
+        },
+        {
+          "review_id": 3,
+          "username": "Roger",
+          "comment": "I liked it but I have eaten better.",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Spaghetti",
+      "picture": "spaghetti.png",
+      "description": "Tasty past for everyone",
+      "flag": false,
+      "price": 12.99,
+      "reviews": [
+        {
+          "review_id": 1,
+          "username": "Elizabeth",
+          "comment": "I would not recommend.",
+          "rate": 3.8
+        },
+        {
+          "review_id": 2,
+          "username": "John",
+          "comment": "Tasty and delicious",
+          "rate": 4.5
+        },
+        {
+          "review_id": 3,
+          "username": "Ryan",
+          "comment": "I liked it but I have eaten better.",
+          "rate": 4.2
+        }
+      ]
+    }
+  ]
+  

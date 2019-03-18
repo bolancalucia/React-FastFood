@@ -1,0 +1,13 @@
+.heart {
+  font-size: 35px;
+  color: red;
+  cursor: pointer;
+}
+.fav-div{
+  font-size: 35px;
+}
+@media screen and (min-width: 400px) and (max-width: 800px) {
+  .heart {
+    font-size: 25pt;
+  }
+}
