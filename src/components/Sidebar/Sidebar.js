@@ -27,11 +27,9 @@ export class Sidebar extends Component {
               <div className="product-info" >
                 <h4>
                 <Link
-                      onClick={() => this.OnClickDetails(Product.id)}
-                      to={"details/" + Product.id}>
+                      to={"/details/" + Product.id}>
                       {Product.name}
-                    </Link></h4> 
-                    {/* ne radi kad se klikne link */}
+                    </Link></h4>
                 <p>${Product.price}</p>
               </div>
             </div>

@@ -21,7 +21,7 @@ export class Rate extends Component {
   };
 
   StarWidth = () => {
-    return ( this.Calculate() * 150 ) / 5;
+    return  150 ;
   }
 
   render() {

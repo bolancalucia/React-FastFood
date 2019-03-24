@@ -78,7 +78,6 @@ export class Mainbar extends Component {
                     id="product-fav"
                   />
                 </div>
-               
                 <Rate rates={Product.reviews} id="product-reviews" />
               </div>
             );
