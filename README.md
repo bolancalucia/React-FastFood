@@ -1,2 +1,2 @@
 # React-FastFood
-repository for college subject NWT - React
+Project for college subject Advanced Web Technologies
